@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: UNIX is a simple operating system
- * Return: Always 0 (Success)
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
