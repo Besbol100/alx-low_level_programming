@@ -1,1 +1,1 @@
-This directory is about solving 0x09-Static Libraries task in ALX Intern
+Creating Static Libraries and solving the 0x09 task on ALX Software intern
